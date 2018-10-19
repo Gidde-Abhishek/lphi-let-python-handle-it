@@ -15,6 +15,6 @@
 #### time
 #### gtts
 #### pygame
-
+**Create a folder name "pulled" in the directory you save this repo**<br>
 **FILE LOCATIONS ARE GIVEN FOR WINDOWS ENVIRONMENT**<br>
 **CHANGE THE LOCATIONS ON YOUR MACHINE !**
