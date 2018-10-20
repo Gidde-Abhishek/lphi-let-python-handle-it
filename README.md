@@ -1,5 +1,7 @@
 # lphi-let-python-handle-it
+# Project started as a T.E mini-project for my computer science degree at SPPU
 'lphi - Let python handle it' is a python based gui application that combines various libraries for the purpose of automation of various tasks.
+
 ## Current functions:
  1. Google and Amazon search automation.
  2. Get Current Android Screen's text and speak it out.
