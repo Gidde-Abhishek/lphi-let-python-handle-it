@@ -1,5 +1,5 @@
 # lphi-let-python-handle-it
-# Project started as a T.E mini-project for my computer science degree at SPPU
+# Automation Tool Kit for tasks involving redundant work flows.
 'lphi - Let python handle it' is a python based gui application that combines various libraries for the purpose of automation of various tasks.
 
 ## Current functions:
